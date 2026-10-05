@@ -1,0 +1,12 @@
+{
+  "name": "scrum-guiado",
+  "description": "Plugin genérico para aprender y practicar el flujo Scrum paso a paso con Claude Code",
+  "owner": { "name": "Víctor Arana Flores" },
+  "plugins": [
+    {
+      "name": "scrum-guiado",
+      "source": "./plugins/scrum-guiado",
+      "description": "Flujo Scrum guiado y sin saltos: ficha del proyecto, visión, épicas, historias, prioridad, acuerdos, sprint y ciclo de trabajo, con módulos opcionales."
+    }
+  ]
+}

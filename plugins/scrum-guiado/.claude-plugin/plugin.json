@@ -1,0 +1,7 @@
+{
+  "name": "scrum-guiado",
+  "version": "0.1.0",
+  "description": "Flujo Scrum guiado paso a paso, genérico (sin stack fijo). Descubre el proyecto con preguntas, no se salta pasos y explica cada uno. Módulos opcionales: diseño, SEO, BI, captación, seguridad, despliegue.",
+  "author": { "name": "Víctor Arana Flores" },
+  "keywords": ["scrum", "agile", "guiado", "agentes", "backlog"]
+}
